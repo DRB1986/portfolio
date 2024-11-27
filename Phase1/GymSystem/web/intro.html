@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduce Yourself</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Introduce Yourself</h1>
+        <form action="/saveIntro" method="POST">
+            <label for="introduction">Introduction:</label>
+            <textarea id="introduction" name="introduction" required></textarea>
+
+            <label for="hobbies">Hobbies:</label>
+            <textarea id="hobbies" name="hobbies" required></textarea>
+
+            <button type="submit">Save</button>
+        </form>
+    </div>
+</body>
+</html>
