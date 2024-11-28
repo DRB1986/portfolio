@@ -1,0 +1,14 @@
+D:\College\Csharp\As3\P\bin\Debug\net8.0\P.exe
+D:\College\Csharp\As3\P\bin\Debug\net8.0\P.deps.json
+D:\College\Csharp\As3\P\bin\Debug\net8.0\P.runtimeconfig.json
+D:\College\Csharp\As3\P\bin\Debug\net8.0\P.dll
+D:\College\Csharp\As3\P\bin\Debug\net8.0\P.pdb
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.AssemblyInfoInputs.cache
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.AssemblyInfo.cs
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.csproj.CoreCompileInputs.cache
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.dll
+D:\College\Csharp\As3\P\obj\Debug\net8.0\refint\P.dll
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.pdb
+D:\College\Csharp\As3\P\obj\Debug\net8.0\P.genruntimeconfig.cache
+D:\College\Csharp\As3\P\obj\Debug\net8.0\ref\P.dll
