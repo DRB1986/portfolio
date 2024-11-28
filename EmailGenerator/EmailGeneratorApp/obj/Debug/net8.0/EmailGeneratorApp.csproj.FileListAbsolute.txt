@@ -1,0 +1,14 @@
+D:\College\Csharp\As2\EmailGeneratorApp\bin\Debug\net8.0\EmailGeneratorApp.exe
+D:\College\Csharp\As2\EmailGeneratorApp\bin\Debug\net8.0\EmailGeneratorApp.deps.json
+D:\College\Csharp\As2\EmailGeneratorApp\bin\Debug\net8.0\EmailGeneratorApp.runtimeconfig.json
+D:\College\Csharp\As2\EmailGeneratorApp\bin\Debug\net8.0\EmailGeneratorApp.dll
+D:\College\Csharp\As2\EmailGeneratorApp\bin\Debug\net8.0\EmailGeneratorApp.pdb
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.AssemblyInfoInputs.cache
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.AssemblyInfo.cs
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.csproj.CoreCompileInputs.cache
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.dll
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\refint\EmailGeneratorApp.dll
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.pdb
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\EmailGeneratorApp.genruntimeconfig.cache
+D:\College\Csharp\As2\EmailGeneratorApp\obj\Debug\net8.0\ref\EmailGeneratorApp.dll
