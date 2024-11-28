@@ -1,0 +1,14 @@
+D:\College\Csharp\As1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+D:\College\Csharp\As1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+D:\College\Csharp\As1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+D:\College\Csharp\As1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+D:\College\Csharp\As1\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+D:\College\Csharp\As1\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
