@@ -1,0 +1,14 @@
+D:\College\Csharp\As4\BookLibrary\bin\Debug\net8.0\BookLibrary.exe
+D:\College\Csharp\As4\BookLibrary\bin\Debug\net8.0\BookLibrary.deps.json
+D:\College\Csharp\As4\BookLibrary\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+D:\College\Csharp\As4\BookLibrary\bin\Debug\net8.0\BookLibrary.dll
+D:\College\Csharp\As4\BookLibrary\bin\Debug\net8.0\BookLibrary.pdb
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.dll
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\refint\BookLibrary.dll
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.pdb
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+D:\College\Csharp\As4\BookLibrary\obj\Debug\net8.0\ref\BookLibrary.dll
