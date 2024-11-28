@@ -1,0 +1,65 @@
+body {
+    background-color: lightsteelblue;
+    margin: 50px;
+}
+header{
+    text-align: center;
+    background-color: lavender;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.container{
+    background-color: lavender;
+    padding: 20px;
+    border-radius: 10px;
+}
+.board{
+    position: relative;
+    margin: 0 auto;
+    display: table;
+    width: auto;
+    background-color: #eee;
+}
+.board button{
+    color: indigo;
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    border: none;
+    outline: none;
+}
+button:hover{
+    cursor: pointer;
+    color: lightslategray;
+}
+button:active{
+    color: black;
+}
+.btn-restart{
+    color: darkred;
+    margin: 10px 0;
+}
+.row{
+    width: auto;
+    display: table-row;
+}
+.cell{
+    display: table-cell;
+    width: 50px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    color: darkred;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.compass-form input[type=text]{
+    width: 12px;
+}
+.diagonal{
+    transform: rotate(-45deg);
+}
+.italic{
+    font-style: italic;
+}

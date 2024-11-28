@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Generator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Story Generator</h1>
+    <section id="inputSection">
+        <form id="inputForm">
+            <div>
+                <label for="noun">Enter a noun:</label>
+                <input type="text" id="noun" name="noun">
+            </div>
+            <div>
+                <label for="verb">Enter a verb:</label>
+                <input type="text" id="verb" name="verb">
+            </div>
+            <div>
+                <label for="adjective">Enter an adjective:</label>
+                <input type="text" id="adjective" name="adjective">
+            </div>
+            <button type="button" onclick="generateStory()">Done</button>
+        </form>
+    </section>
+    <section id="storySection" style="display: none;">
+        <p id="story">
+            A <span id="nounSpan" class="missing">[noun]</span> <span id="verbSpan" class="missing">[verb]</span> <span id="adjectiveSpan" class="missing">[adjective]</span> walked down the street. Suddenly, it started to <span id="verb2Span" class="missing">[verb]</span> <span id="noun2Span" class="missing">[noun]</span> and <span id="adjective2Span" class="missing">[adjective]</span>.
+        </p>
+        <button type="button" onclick="returnToInput()">Return</button>
+        <button type="button" onclick="resetForm()">Reset</button>
+    </section>
+    <script src="storyGenerator.js"></script>
+</body>
+</html>
+

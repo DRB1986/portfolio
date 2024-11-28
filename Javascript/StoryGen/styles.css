@@ -1,0 +1,16 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+input, button {
+  margin-bottom: 10px;
+}
+
+.missing {
+  color: red;
+}
+
+#story {
+  font-family: "Comic Sans MS", cursive;
+  color: blue;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="functions.js" href="javascript"></script>
+    <noscript>Your browser doesn't support JavaScript</noscript>
+    <title>Compass Game</title>
+</head>
+<body>
+    <header>
+        <h1>Compass Game</h1>
+    </header>
+    <div class="container">
+        <section>
+            <p>The direction letters on the “compass” are scrambled. Press the arrows to properly position the direction letters.</p>
+            <div class="board" id="compass-board">
+                <div class="row">
+                    <div class="cell"><button class="diagonal" onclick="swapLeftTop()">⇔</button></div>
+                    <div class="cell">E</div>
+                    <div class="cell"></div>
+                </div>
+                <div class="row">
+                    <div class="cell">S</div>
+                    <div class="cell"><button class="" onclick="swapLeftRight()">⇔</button></div>
+                    <div class="cell">N</div>
+                </div>
+                <div class="row">
+                    <div class="cell"></div>
+                    <div class="cell">W</div>
+                    <div class="cell"><button class="diagonal" onclick="swapBottomRight()">⇔</button></div>
+                </div>
+            </div>
+        </section>
+        <hr>
+        <section>
+            <p>To restart the game, press <span class="italic">Restart</span>, enter N, S, E and W in any order in ther boxes, and then press <span class="italic">Update</span>.</p>
+            <button class="btn-restart" onclick="restartGame()">Restart</button>
+        
+            <form class="compass-form" id="compass-form">
+                <label for="top">Top:</label>
+                <input type="text" name="top" id="top-input" maxlength="1" disabled>
+                <label for="left">Left:</label>
+                <input type="text" name="left" id="left-input" maxlength="1" disabled>
+                <label for="right">Right:</label>
+                <input type="text" name="right" id="right-input" maxlength="1" disabled>
+                <label for="bottom">Bottom:</label>
+                <input type="text" name="bottom" id="bottom-input" maxlength="1" disabled>
+                <input type="button" value="Update" id="update-compass-btn" 
+                    onclick="updateCompass(this.form)" disabled>
+            </form>
+        </section>
+    </div>
+</body>
+</html>

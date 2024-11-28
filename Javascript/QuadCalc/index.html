@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link src="stylesheet" href="styles.css">
+<script src="script.js"></script>
+<title>Quadratic Equation Roots Calculator</title>
+
+</head>
+<body>
+    <h1>Quadratic Equation Roots Calculator</h1>
+    <label for="inputA">Enter value for a (-99 to 99, nonzero):</label>
+    <input type="number" id="inputA" min="-99" max="99" oninput="validateInput('inputA')" required><br><br>
+    <label for="inputB">Enter value for b (-99 to 99):</label>
+    <input type="number" id="inputB" min="-99" max="99" oninput="validateInput('inputB')" required><br><br>
+    <label for="inputC">Enter value for c (-99 to 99):</label>
+    <input type="number" id="inputC" min="-99" max="99" oninput="validateInput('inputC')" required><br><br>
+    <button onclick="calculateRoots()">Calculate roots</button><br><br>
+    <div id="solution" class="error"></div>
+</body>
+</html>
